@@ -4,7 +4,6 @@ Turning Brainwaves into Art
 ![](https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/739/849/datas/gallery.jpg)
 *Created at SB Hacks*
 
-
  ## Inspiration
 We wanted to work with hardware so we grabbed a bunch of different hardware and experimented with different possibilities. The MUSE offered a unique perspective into potential projects involving brain waves and we wanted to delve deeper within the data.
 
@@ -33,7 +32,7 @@ We would like to continue to improve visuals, audio, and the detection of the br
 * osc
 * muselab
 
-CREATED BY
+## CREATED BY
 Rachel Pham
 Victor Sanchez-Gutierrez
 Felix Dong
