@@ -32,6 +32,16 @@ We would like to continue to improve visuals, audio, and the detection of the br
 * osc
 * muselab
 
+## Directions for running locally
+
+Download and Install:
+http://developer.choosemuse.com/tools (Muse tools)
+https://processing.org/download/ (Processing)
+http://explodingart.com/soundcipher/download.html (SoundCipher)
+http://www.sojamo.de/libraries/oscP5/ (oscP5)
+
+Pair Muse to computer and run Processing file in its application. Ensure the port is correct; if not, change port if necessary in file. 
+
 ## CREATED BY
 Rachel Pham
 Victor Sanchez-Gutierrez
