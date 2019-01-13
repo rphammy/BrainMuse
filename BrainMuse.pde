@@ -16,14 +16,8 @@
 //import statements
 import arb.soundcipher.*;
 import oscP5.*;
-import java.util.Arrays;
-import java.util.List;
-
 
 boolean debug = false;
-
-
-List<Integer> wrong = Arrays.asList(22, 25, 27, 30, 32, 34, 37, 39, 42, 44, 46, 49, 52, 54, 56, 58, 61, 66, 73, 75, 78, 80, 82, 85, 87);
 
 // wave values
 float alpha;
