@@ -4,6 +4,10 @@ Turning Brainwaves into Art
 
 ![A snapshot of the visual](https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/739/849/datas/gallery.jpg)
 
+
+Click these photos below to watch it in action!!
+[![Alt text](https://img.youtube.com/vi/FE_yc1LtAfE/0.jpg)](https://www.youtube.com/watch?v=FE_yc1LtAfE)
+
 [![Alt text](https://img.youtube.com/vi/FE_yc1LtAfE/0.jpg)](https://www.youtube.com/watch?v=FE_yc1LtAfE)
 
  ## Inspiration
