@@ -6,6 +6,7 @@ Turning Brainwaves into Art
 
 
 Click these photos below to watch it in action!!
+
 [![Alt text](https://img.youtube.com/vi/FE_yc1LtAfE/0.jpg)](https://www.youtube.com/watch?v=FE_yc1LtAfE)
 
 [![Alt text](https://img.youtube.com/vi/FvNQGaqbYgw/0.jpg)](https://www.youtube.com/watch?v=FvNQGaqbYgw)
