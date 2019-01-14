@@ -1,8 +1,10 @@
 # BrainMuse
 Turning Brainwaves into Art
+*Created at SB Hacks*
 
 ![A snapshot of the visual](https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/739/849/datas/gallery.jpg)
-*Created at SB Hacks*
+
+[![Alt text](https://img.youtube.com/vi/watch?v=FE_yc1LtAfE/0.jpg)](https://www.youtube.com/watch?v=FE_yc1LtAfE)
 
  ## Inspiration
 We wanted to work with hardware so we grabbed a bunch of different hardware and experimented with different possibilities. The MUSE offered a unique perspective into potential projects involving brain waves and we wanted to delve deeper within the data.
