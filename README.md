@@ -1,7 +1,7 @@
 # BrainMuse
 Turning Brainwaves into Art
 
-![](https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/739/849/datas/gallery.jpg)
+![A snapshot of the visual](https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/739/849/datas/gallery.jpg)
 *Created at SB Hacks*
 
  ## Inspiration
@@ -11,7 +11,7 @@ We wanted to work with hardware so we grabbed a bunch of different hardware and 
 Our program uses Processing and the MUSE headset to convert brain waves into musical notes. In addition, visuals in our program correspond to the frequency of the brain waves and are incorporated into the art visuals.
 
 ## How we built it
-Blood, sweat, tears, and hours and hours of debugging.
+We used the Muse Headband (a headband that reads brainwaves), Processing (a java-based programming language for art and music), and  our brains!
 
 ## Challenges we ran into
 One challenge we ran into was interpreting data and understanding how to communicate with the hardware. We also had problems with figuring out which libraries that interacted with the hardware in Processing.
@@ -35,9 +35,13 @@ We would like to continue to improve visuals, audio, and the detection of the br
 ## Directions for running locally
 
 Download and Install:
+
 http://developer.choosemuse.com/tools (Muse tools)
+
 https://processing.org/download/ (Processing)
+
 http://explodingart.com/soundcipher/download.html (SoundCipher)
+
 http://www.sojamo.de/libraries/oscP5/ (oscP5)
 
 Pair Muse to computer and run Processing file in its application. Ensure the port is correct; if not, change port if necessary in file. 
